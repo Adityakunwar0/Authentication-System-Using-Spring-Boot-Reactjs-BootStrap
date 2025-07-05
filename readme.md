@@ -72,3 +72,8 @@ This project uses ReactJS for the frontend with routing, context-based state man
  - Uses Spring Security with AuthenticationManager and UserDetailsService.
  - JWT Tokens are securely stored in HTTP-only cookies with SameSite=Strict policy.
  - Account disabling and bad credentials are gracefully handled with clear error responses.
+
+ 
+## Author
+### Aditya Kunwar
+Full Stack Developer | Passionate about building scalable and intelligent web apps
